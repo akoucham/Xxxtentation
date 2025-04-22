@@ -26,12 +26,12 @@
         
         "AdMobBanner"         : "ca-app-pub-3147524971917133/6427044376",
         "AdMobInterstitial"   : "ca-app-pub-3147524971917133/3982211411",
-        "AdMobNative"         : "ca-app-pub-3147524971917133/4357173403",
+        "AdMobNative"         : "",
         "AdMobOpenAd"         : "ca-app-pub-3147524971917133/7482466247",
         
         "FacebookBanner"      : "",
         "FacebookInterstitial": "",
-        "FacebookNative"      : ""
+        "FacebookNative"      : "1132105874045194_1739113903344385"
 
       }
     },
