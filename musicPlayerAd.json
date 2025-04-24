@@ -12,15 +12,15 @@
         "⚠️Warning: Facebook does not support OpenAd."
       ],
       
-      "BannerNetwork"      : "admob",
-      "InterstitialNetwork": "admob",
+      "BannerNetwork"      : "facebook",
+      "InterstitialNetwork": "facebook",
       "NativeNetwork"      : "facebook",
       
       "OpenAdNetwork"      : "admob",
       
       "AdInterval"         : 1,
       
-      "NativeAdRow"        : 0,
+      "NativeAdRow"        : 5,
 
       "AdPlacement": {
         
@@ -29,8 +29,8 @@
         "AdMobNative"         : "",
         "AdMobOpenAd"         : "",
         
-        "FacebookBanner"      : "",
-        "FacebookInterstitial": "",
+        "FacebookBanner"      : "1132105874045194_1740516739870768",
+        "FacebookInterstitial": "1132105874045194_1740517173204058",
         "FacebookNative"      : "1132105874045194_1739113903344385"
 
       }
